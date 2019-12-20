@@ -4,7 +4,7 @@
 
 $name = 'Yu';
 
-if ($name = 'Yu'){
+if ($name == 'Yu') {
  echo 'あなたの名前です。';
 }else {
  echo 'あなたの名前ではありません。';
